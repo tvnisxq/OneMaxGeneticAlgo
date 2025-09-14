@@ -1,8 +1,11 @@
 # Genetic Algorithms in Python
-
-A compact example implementation of a genetic algorithm solving the One-Max problem (maximizing the number of 1s in a binary genome).
-
+Genetic algorithms are computational search and optimization techniques inspired by natural selection and biological evolution. They work by creating a population of candidate solutions, which are then iteratively improved through processes like selection, crossover, and mutation, mimicking biological reproduction and the survival of the fittest.
 ![Genetic Algorithm Workflow](assets/geneticAlgoWorkflow.png)
+
+
+## One Max Problem
+The One‑Max problem asks: given a fixed-length binary string (genome), how can we evolve a string with as many 1s as possible? It is a simple benchmark used to demonstrate genetic algorithm operators (selection, crossover, mutation) and behaviour
+![One Max Problem](assets/oneMaxProblem.png)
 
 ## What's included
 
