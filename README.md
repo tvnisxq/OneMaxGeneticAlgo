@@ -2,7 +2,7 @@
 
 A compact example implementation of a genetic algorithm solving the One-Max problem (maximizing the number of 1s in a binary genome).
 
-![One-Max Problem](assets/oneMaxProblem.png)
+![Genetic Algorithm Workflow](assets/geneticAlgoWorkflow.png)
 
 ## What's included
 
